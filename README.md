@@ -1,2 +1,2 @@
 # regressao
-Desafios de Regressão Linear (simples e multipla) e Regressão Logística 
+Regressão Linear (simples e multipla) e Regressão Logística com NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
